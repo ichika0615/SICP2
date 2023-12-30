@@ -1,3 +1,6 @@
 私はMacintoshbook pro  M1 を使っているので、そのcomputer上に於ける環境構築に就て述べます。調べれば多分出てきますが、1応。
 homebrewを使います。trerminalにてbrew cask　を用いてracketをinstallしてください。
+(以下の如く入力)
+brew install --cask racket 
+
 install後、DrRacketがapplicationに出てくるのと思うので、それを起動させれば完了。
