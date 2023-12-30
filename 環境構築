@@ -4,3 +4,5 @@ homebrewを使います。trerminalにてbrew cask　を用いてracketをinstal
 brew install --cask racket 
 
 install後、DrRacketがapplicationに出てくるのと思うので、それを起動させれば完了。
+
+#homebrewとはcompouter上でのpackageを整理するsoftwareです。あまり詳しいことは知らなくてもいいと思いますが、環境構築関係ではちょくちょく出てきますね。
