@@ -20,5 +20,6 @@
 (4)  (* (cube 6) (cube 6) (cube 6))
 
 問題２
-
+(1) (define (mul x y) (* x y))
+(2) (define (calc x y) (+ (* 2 (+ x y)) (* 3 x)))
 
