@@ -6,3 +6,23 @@
   以下の計算式をLispにて示し、解を求む。
   (1) 3 * 6 * 5
   (2) 1000 - (4 * (8 + 6 + 9))
+
+
+
+ーー解答ーー
+問題１
+#lang racket
+(define height 1.63)
+(define weight 60)
+(/ weight (* height height))
+
+問題２
+#lang racket
+(define pi 3.14)
+(define diameter 5)
+(define area (* pi (* (/ diameter 2) (/ diameter 2))))
+area
+
+# diameterっていう英語が難しいですかね(笑)
+
+問題３
