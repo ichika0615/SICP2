@@ -59,3 +59,13 @@ pretty print を練習しましょう。
 述語が偽より、次のように評価が下る。
 (- 9 -5)
 14
+
+練習問題1.5
+Ben Bitdiddleのtestです。
+
+(define (p) (p))
+(define (test x y)
+if (= x 0) x y)
+(test 0 (p))
+
+
