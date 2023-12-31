@@ -23,7 +23,7 @@
 (define area (* pi (* (/ diameter 2) (/ diameter 2))))
 area
 
-# diameterっていう英語が難しいですかね(笑)
+# diameterっていう英語が難しいです(笑)
 
 問題３
 (1) 
